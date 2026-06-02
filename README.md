@@ -24,6 +24,10 @@ Built purely with modern, vanilla web technologies—no frameworks, no bloat.
 - **Vanilla JavaScript (ES6)**: `requestAnimationFrame` for buttery-smooth 60fps animations and `IntersectionObserver` for performant scroll-tracking.
 - **Google Fonts**: Utilizes `Orbitron` (headings), `Rajdhani` (body), and `Share Tech Mono` (data/UI) for a distinctly cyber-tech aesthetic.
 
+
+**Live Site URL**
+https://techiee-jhalak.github.io/Cyborg-landing-page/
+
 ## 📂 Project Structure
 
 ```text
